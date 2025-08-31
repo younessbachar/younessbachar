@@ -28,6 +28,11 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 ---
 
+🌐 *Portfolio*  
+👉 [Check out my portfolio](https://by-folio.vercel.app/)
+
+---
+
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
